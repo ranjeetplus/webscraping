@@ -1,14 +1,4 @@
-streamlit
-geopandas
+numpy
 pandas
-matplotlib
-shapely
-fiona
-pyproj
-rtree
-flask
-transformers 
-torch
-render_template, 
-request, jsonify
-pipeline
+time
+selenium
